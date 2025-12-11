@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "843805050120",
+    "project_id": "sam-twin",
+    "storage_bucket": "sam-twin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843805050120:android:6145a4223348e122f3d8bd",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7wjS-Za4WpI1UYz9PThvLAytjABjFSa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
